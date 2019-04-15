@@ -27,7 +27,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "Prometheus",
+      "datasource": "$datasource",
       "fill": 10,
       "gridPos": {
         "h": 9,
@@ -135,7 +135,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "Prometheus",
+      "datasource": "$datasource",
       "fill": 1,
       "gridPos": {
         "h": 9,
@@ -243,7 +243,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "Prometheus",
+      "datasource": "$datasource",
       "fill": 1,
       "gridPos": {
         "h": 9,
@@ -351,7 +351,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "Prometheus",
+      "datasource": "$datasource",
       "fill": 1,
       "gridPos": {
         "h": 9,
@@ -484,7 +484,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "Prometheus",
+      "datasource": "$datasource",
       "fill": 1,
       "gridPos": {
         "h": 9,
@@ -619,7 +619,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "Prometheus",
+      "datasource": "$datasource",
       "fill": 2,
       "gridPos": {
         "h": 9,
@@ -752,7 +752,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "Prometheus",
+      "datasource": "$datasource",
       "fill": 1,
       "gridPos": {
         "h": 9,
@@ -860,7 +860,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "Prometheus",
+      "datasource": "$datasource",
       "fill": 1,
       "gridPos": {
         "h": 9,
@@ -967,7 +967,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "Prometheus",
+      "datasource": "$datasource",
       "fill": 1,
       "gridPos": {
         "h": 6,
@@ -1129,7 +1129,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "Prometheus",
+      "datasource": "$datasource",
       "fill": 10,
       "gridPos": {
         "h": 6,
@@ -1242,8 +1242,8 @@
     "list": [
       {
         "current": {
-          "text": "Prometheus",
-          "value": "Prometheus"
+          "text": "$datasource",
+          "value": "$datasource"
         },
         "hide": 0,
         "label": "Datasource",
@@ -1261,7 +1261,7 @@
           "text": "35.196.217.16:9182",
           "value": "35.196.217.16:9182"
         },
-        "datasource": "Prometheus",
+        "datasource": "$datasource",
         "definition": "",
         "hide": 0,
         "includeAll": false,

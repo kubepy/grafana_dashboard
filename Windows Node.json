@@ -16,7 +16,7 @@
   "editable": true,
   "gnetId": 8781,
   "graphTooltip": 1,
-  "id": 9,
+  "id": null,
   "iteration": 1555320741915,
   "links": [],
   "panels": [
@@ -1336,6 +1336,6 @@
   },
   "timezone": "browser",
   "title": "Windows Node",
-  "uid": "4UePATWRk",
+  "uid": "wmiexporter",
   "version": 4
 }
